@@ -13,3 +13,9 @@ MonoBehaviour:
   m_Name: Question 1
   m_EditorClassIdentifier: 
   question: What's the name of my love?
+  answers:
+  - Ofir
+  - Besta
+  - Tomi
+  - Pizza
+  correctAnswerIndex: 0

@@ -13,3 +13,9 @@ MonoBehaviour:
   m_Name: Question 4
   m_EditorClassIdentifier: 
   question: What is the thing that I hate the most?
+  answers:
+  - Arsim
+  - Beer
+  - TLV
+  - Soccer
+  correctAnswerIndex: 0
